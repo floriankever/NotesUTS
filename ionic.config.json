@@ -1,0 +1,7 @@
+{
+  "name": "NotesUTS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
